@@ -19,7 +19,7 @@ On the top right corner you can select how the base map will look between satell
 
 <img width="960" alt="EQ map dark" src="https://user-images.githubusercontent.com/106630697/194370000-6595f18e-89c3-4d18-9bd2-c36f5ca8a7bb.png">
 
-You can also zoom in and back out to get a closer look at where the earthquake occurred. You can also click the the earthquake markers to see the time, location, and magnitude of each earthquake. The key for each marker corresponds to the depth where it occurred, the legend can be found in the bottom left of the website.
+You can also zoom in and back out to get a closer look at where the earthquake occurred. You can also click the the earthquake markers to see the time, location, and magnitude of each earthquake. The key for each marker corresponds to the depth (in meters) where it occurred, the legend can be found in the bottom left of the website.
 
 <img width="960" alt="EQ map on click" src="https://user-images.githubusercontent.com/106630697/194372322-c9090946-31fe-42b7-aeef-98634efdabd6.png">
 
